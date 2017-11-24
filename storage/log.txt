@@ -28,3 +28,8 @@
 (2017-11-22 21:38:09) Silence dispara una flecha de fuego a Ramm
 (2017-11-22 21:38:09) Ramm ahora tiene -20 puntos de vida
 (2017-11-22 21:38:09) Ramm muere
+(2017-11-23 21:49:34) Silence dispara una flecha de fuego a Ramm
+(2017-11-23 21:49:34) Ramm ahora tiene 10 puntos de vida
+(2017-11-23 21:49:34) Silence dispara una flecha de fuego a Ramm
+(2017-11-23 21:49:34) Ramm ahora tiene -20 puntos de vida
+(2017-11-23 21:49:34) Ramm muere

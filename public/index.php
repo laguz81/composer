@@ -11,7 +11,7 @@ Translator::set([
     'FireBowAttack' => ':unit dispara una flecha de fuego a :opponent'
 ]);
 
-Log::setLogger(new FileLogger());
+Log::setLogger(new HtmlLogger());
 
 $unit = new Unit('', new Weapons\BasicSword);
 
